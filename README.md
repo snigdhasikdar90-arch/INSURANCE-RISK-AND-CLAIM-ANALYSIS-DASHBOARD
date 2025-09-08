@@ -45,7 +45,7 @@ Data Modeling – Relationship building and KPI creation
 
 Basic Analytics – Filters, slicers, aggregation, drill-down analysis
 
-![Image]()
+![Image](https://github.com/snigdhasikdar90-arch/INSURANCE-RISK-AND-CLAIM-ANALYSIS-DASHBOARD/blob/main/Insurance%20Analysis%20Dashboard%20Picture%20-%20Copy.png?raw=true)
 
 🚀 Conclusion
 

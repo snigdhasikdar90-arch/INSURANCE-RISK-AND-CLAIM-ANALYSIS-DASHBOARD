@@ -52,3 +52,4 @@ Basic Analytics – Filters, slicers, aggregation, drill-down analysis
 This dashboard highlights how insurance companies can leverage data to identify risk profiles, streamline claims management, and optimize customer strategies. By analyzing multiple dimensions, it provides a 360° view of insurance risk and claim behavior.
 
 ## Contact:
+Linkedin profile - www.linkedin.com/in/snigdha-sikdar-85b391377

@@ -1,4 +1,5 @@
 Insurance Risk and Claim Analysis Dashboard Using Power BI and Excel
+
 📖 Project Overview
 
 This project focuses on analyzing insurance risk and claim data using Power BI and Excel. The dashboard provides valuable insights into claim frequency, average claim amount, customer demographics, and vehicle-related risk factors.
